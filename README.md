@@ -2,7 +2,7 @@
 
 ## Description
 
-Pizza Hunt is a PWA (progressive web application) that allows users to post pizza recipes, see others' contributions, comment on posts, and reply to comments.
+Pizza Hunt is a web application that allows users to post pizza recipes, see others' contributions, comment on posts, and reply to comments.
 
 ## User Story
 
